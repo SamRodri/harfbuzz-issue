@@ -1,0 +1,8 @@
+[package]
+name = "harfbuzz-issue"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+font-kit = "0.13"
+harfbuzz_rs = "2.0"
